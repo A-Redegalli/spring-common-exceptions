@@ -1,1 +1,1 @@
-# spring-common-exceptions
+# dominatus-models-lib
